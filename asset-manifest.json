@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FE_ReactProject/static/css/main.14daadd2.css",
-    "main.js": "/FE_ReactProject/static/js/main.a604abe5.js",
-    "static/js/453.d7db10b6.chunk.js": "/FE_ReactProject/static/js/453.d7db10b6.chunk.js",
-    "static/media/profile.jpg": "/FE_ReactProject/static/media/profile.dafd1e9db3b4d2922471.jpg",
-    "static/media/Octicons-mark-github.svg": "/FE_ReactProject/static/media/Octicons-mark-github.255db585f8a0eb28a1e4deb91bde207d.svg",
-    "index.html": "/FE_ReactProject/index.html",
-    "static/media/mail_24dp_00000_FILL0_wght400_GRAD0_opsz24.svg": "/FE_ReactProject/static/media/mail_24dp_00000_FILL0_wght400_GRAD0_opsz24.8b5363f89e1dc73de71d143095249b05.svg",
-    "main.14daadd2.css.map": "/FE_ReactProject/static/css/main.14daadd2.css.map",
-    "main.a604abe5.js.map": "/FE_ReactProject/static/js/main.a604abe5.js.map",
-    "453.d7db10b6.chunk.js.map": "/FE_ReactProject/static/js/453.d7db10b6.chunk.js.map"
+    "main.css": "/ReactPortfolio/static/css/main.14daadd2.css",
+    "main.js": "/ReactPortfolio/static/js/main.35a890ef.js",
+    "static/js/453.d7db10b6.chunk.js": "/ReactPortfolio/static/js/453.d7db10b6.chunk.js",
+    "static/media/profile.jpg": "/ReactPortfolio/static/media/profile.dafd1e9db3b4d2922471.jpg",
+    "static/media/Octicons-mark-github.svg": "/ReactPortfolio/static/media/Octicons-mark-github.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/media/mail_24dp_00000_FILL0_wght400_GRAD0_opsz24.svg": "/ReactPortfolio/static/media/mail_24dp_00000_FILL0_wght400_GRAD0_opsz24.8b5363f89e1dc73de71d143095249b05.svg",
+    "main.14daadd2.css.map": "/ReactPortfolio/static/css/main.14daadd2.css.map",
+    "main.35a890ef.js.map": "/ReactPortfolio/static/js/main.35a890ef.js.map",
+    "453.d7db10b6.chunk.js.map": "/ReactPortfolio/static/js/453.d7db10b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14daadd2.css",
-    "static/js/main.a604abe5.js"
+    "static/js/main.35a890ef.js"
   ]
 }
