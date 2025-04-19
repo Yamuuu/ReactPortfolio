@@ -1,0 +1,13 @@
+.overlay {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: 0.7s ease-out opacity;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+
+    filter: contrast(150%);
+}
